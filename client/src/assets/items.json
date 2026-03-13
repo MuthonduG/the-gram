@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "title": "Neon Afrofuturism",
+    "creator": "Kwame O.",
+    "imageUrl": "path/to/neon-afrofuturism.jpg",
+    "creatorImg": "path/to/kwame-avatar.jpg",
+    "aspectRatio": "tall"
+  },
+  {
+    "id": 2,
+    "title": "Handcrafted Clay Art",
+    "creator": "Diallo Crafts",
+    "imageUrl": "path/to/clay-art.jpg",
+    "creatorImg": "path/to/diallo-avatar.jpg",
+    "aspectRatio": "square"
+  },
+  {
+    "id": 3,
+    "title": "Ankara Elegance",
+    "creator": "Nia Style",
+    "imageUrl": "path/to/ankara-dress.jpg",
+    "creatorImg": "path/to/nia-avatar.jpg",
+    "aspectRatio": "extra-tall"
+  },
+  {
+    "id": 4,
+    "title": "Maasai Inspired Beads",
+    "creator": "Heritage Jewels",
+    "imageUrl": "path/to/beads.jpg",
+    "creatorImg": "path/to/heritage-avatar.jpg",
+    "aspectRatio": "tall"
+  },
+  {
+    "id": 5,
+    "title": "Midnight Afrobeat",
+    "creator": "Sounds of Accra",
+    "imageUrl": "path/to/saxophone.jpg",
+    "creatorImg": "path/to/accra-avatar.jpg",
+    "aspectRatio": "square"
+  },
+  {
+    "id": 6,
+    "title": "Modern Earth Tones",
+    "creator": "Amina Designs",
+    "imageUrl": "path/to/interior.jpg",
+    "creatorImg": "path/to/amina-avatar.jpg",
+    "aspectRatio": "tall"
+  },
+  {
+    "id": 7,
+    "title": "Night Markets in Lagos",
+    "creator": "Zuri Photography",
+    "imageUrl": "path/to/lagos-market.jpg",
+    "creatorImg": "path/to/zuri-avatar.jpg",
+    "aspectRatio": "tall"
+  },
+  {
+    "id": 8,
+    "title": "Authentic Jollof",
+    "creator": "Chef Fatima",
+    "imageUrl": "path/to/jollof-rice.jpg",
+    "creatorImg": "path/to/fatima-avatar.jpg",
+    "aspectRatio": "square"
+  },
+  {
+    "id": 9,
+    "title": "Dakar Brutalism",
+    "creator": "ArchAfrica",
+    "imageUrl": "path/to/dakar-building.jpg",
+    "creatorImg": "path/to/arch-avatar.jpg",
+    "aspectRatio": "extra-tall"
+  },
+  {
+    "id": 10,
+    "title": "Crown of Braids",
+    "creator": "Salon Lome",
+    "imageUrl": "path/to/braids.jpg",
+    "creatorImg": "path/to/lome-avatar.jpg",
+    "aspectRatio": "tall"
+  },
+  {
+    "id": 11,
+    "title": "Serengeti Evenings",
+    "creator": "Tariq Landscapes",
+    "imageUrl": "path/to/serengeti.jpg",
+    "creatorImg": "path/to/tariq-avatar.jpg",
+    "aspectRatio": "wide"
+  },
+  {
+    "id": 12,
+    "title": "Visions of Home",
+    "creator": "Kofi Arts",
+    "imageUrl": "path/to/painting.jpg",
+    "creatorImg": "path/to/kofi-avatar.jpg",
+    "aspectRatio": "tall"
+  }
+]
